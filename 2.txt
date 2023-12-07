@@ -1,0 +1,10 @@
+9876 --> ¬Toques--> 0 ; ¬Famas--> 0 ; ¬Nadas--> 4
+5678 --> ¬Toques--> 0 ; ¬Famas--> 0 ; ¬Nadas--> 4
+4567 --> ¬Toques--> 1 ; ¬Famas--> 0 ; ¬Nadas--> 3
+6789 --> ¬Toques--> 0 ; ¬Famas--> 0 ; ¬Nadas--> 4
+6789 --> ¬Toques--> 0 ; ¬Famas--> 0 ; ¬Nadas--> 4
+9876 --> ¬Toques--> 0 ; ¬Famas--> 0 ; ¬Nadas--> 4
+9876 --> ¬Toques--> 0 ; ¬Famas--> 0 ; ¬Nadas--> 4
+0987 --> ¬Toques--> 0 ; ¬Famas--> 0 ; ¬Nadas--> 4
+5678 --> ¬Toques--> 0 ; ¬Famas--> 0 ; ¬Nadas--> 4
+6789 --> ¬Toques--> 0 ; ¬Famas--> 0 ; ¬Nadas--> 4
